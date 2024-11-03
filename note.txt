@@ -1,6 +1,0 @@
-DO
--eval() is a security risk change it
--after calculating, proceed to input mode 
--add more operations
-
-BUG:
